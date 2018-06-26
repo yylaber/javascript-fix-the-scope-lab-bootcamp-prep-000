@@ -27,5 +27,7 @@ var funkyFunction = function() {
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
+// The hint is unclear. a better to explain the "()" as "argument accessors" and since in order to access the argument within a function one level deep how do we access it if its two levels deep? 
+// answer "()()"
 var theFunk = funkyFunction()();
 
